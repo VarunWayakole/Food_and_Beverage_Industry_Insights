@@ -21,44 +21,43 @@ To increase brand awareness and market share for CodeX in India.
 # Data Collection
 The data was collected through a survey distributed in 10 major Indian cities. The survey covered various aspects such as:
 
-- Demographic information (age, gender, city)
-- Consumption patterns and preferences
-- Product attributes (ingredients, packaging)
-- Brand awareness and perception
-- Pricing sensitivity
+  - Demographic information (age, gender, city)
+  - Consumption patterns and preferences
+  - Product attributes (ingredients, packaging)
+  - Brand awareness and perception
+  - Pricing sensitivity
 
 # Analysis
 The analysis was performed using statistical and data visualization techniques to extract meaningful insights from the survey responses. 
 The key focus areas included:
-
-- Demographic analysis
-- Consumer preference trends
-- Market penetration and brand awareness
-- Price sensitivity and affordability
+  - Demographic analysis
+  - Consumer preference trends
+  - Market penetration and brand awareness
+  - Price sensitivity and affordability
 
 # Key Insights
 1. Demographic Preferences:
-- Males (60.4%) are the primary consumers.
-- The majority age group is 19-30.
-- Preferred packaging includes compact cans and innovative bottle designs.
+  - Males (60.4%) are the primary consumers.
+  - The majority age group is 19-30.
+  - Preferred packaging includes compact cans and innovative bottle designs.
 
 2. Consumer Preferences:
-- High preference for caffeine and vitamins in energy drinks.
-- Demand for products with reduced sugar and natural ingredients.
-- Interest in natural flavors and nutritional enhancements.
-- 
+  - High preference for caffeine and vitamins in energy drinks.
+  - Demand for products with reduced sugar and natural ingredients.
+  - Interest in natural flavors and nutritional enhancements.
+
 3. Market Penetration:
-- Only 44% have heard of CodeX, and 20% have tried it.
-- Local unavailability is a barrier for 22.3% of respondents.
-- Ideal price range: ₹50-150.
+  - Only 44% have heard of CodeX, and 20% have tried it.
+  - Local unavailability is a barrier for 22.3% of respondents.
+  - Ideal price range: ₹50-150.
 
 4. Marketing and Distribution:
-- Online ads and TV commercials are effective marketing channels.
-- Bangalore, Hyderabad, and Mumbai show high potential.
+  - Online ads and TV commercials are effective marketing channels.
+  - Bangalore, Hyderabad, and Mumbai show high potential.
 
 # Recommendations
-- Enhance advertising and social media presence.
-- Partner with retailers and distributors for better availability.
-- Offer discounts and promotions to attract consumers.
-- Introduce new flavors and innovative packaging.
-- Conduct regular market research to track performance.
+  - Enhance advertising and social media presence.
+  - Partner with retailers and distributors for better availability.
+  - Offer discounts and promotions to attract consumers.
+  - Introduce new flavors and innovative packaging.
+  - Conduct regular market research to track performance.
