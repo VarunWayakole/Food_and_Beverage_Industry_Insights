@@ -55,6 +55,8 @@ The key focus areas included:</p>
   - Online ads and TV commercials are effective marketing channels.
   - Bangalore, Hyderabad, and Mumbai show high potential.
 
+![c6 dashboard](https://github.com/user-attachments/assets/bed2b22e-1ff9-4a5e-a855-261a348982a1)
+
 # Recommendations
   - Enhance advertising and social media presence.
   - Partner with retailers and distributors for better availability.
