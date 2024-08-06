@@ -13,10 +13,10 @@ CodeX Market Analysis Project
 <p align="justify">This project involves a detailed market analysis for CodeX, a German beverage company looking to expand its energy drink market in India. The analysis is based on a survey conducted across 10 Indian cities, targeting different demographics to gather insights on consumer preferences, market potential, and marketing strategies.</p>
 
 # Objectives
-    - To understand consumer preferences regarding energy drinks.
-    - To identify key target demographics and potential markets.
-    - To provide actionable recommendations for marketing and distribution strategies.
-    - To increase brand awareness and market share for CodeX in India.
+- To understand consumer preferences regarding energy drinks.
+- To identify key target demographics and potential markets.
+- To provide actionable recommendations for marketing and distribution strategies.
+- To increase brand awareness and market share for CodeX in India.
 
 # Data Collection
 <p align="justify">The data was collected through a survey distributed in 10 major Indian cities. The survey covered various aspects such as:</p>
